@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A demosite with Eleventy
+title: A demosite with Eleventy and cms
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
