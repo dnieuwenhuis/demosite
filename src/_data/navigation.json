@@ -6,6 +6,11 @@
       "external": false
     },
     {
+      "text": "Wat wij doen",
+      "url": "https://www.nu.nl",
+      "external": true
+    },
+    {
       "text": "GitHub",
       "url": "https://github.com/hankchizljaw/hylia",
       "external": true
@@ -13,11 +18,6 @@
     {
       "text": "Twitter",
       "url": "https://twitter.com/hankchizljaw",
-      "external": true
-    },
-    {
-      "text": "Wat wij doen",
-      "url": "https://www.nu.nl",
       "external": true
     }
   ]
