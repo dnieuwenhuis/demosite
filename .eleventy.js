@@ -51,11 +51,16 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
+  config.addCollection('activities', collection => {
+    return [...collection.getFilteredByGlob('./src/activities/*.md').filter(livePosts)]
+      .reverse()
+  });
+
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);
 
-  // 404 
+  // 404
   config.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {

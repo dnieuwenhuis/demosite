@@ -9,6 +9,11 @@
       "text": "Huiskamer",
       "url": "/huiskamer",
       "external": false
+    },
+    {
+      "text": "Activiteiten",
+      "url": "/activiteiten",
+      "external": false
     }
   ]
 }
