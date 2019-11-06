@@ -1,6 +1,8 @@
 ---
 layout: layouts/activity.njk
 title: Kookworkshop
+numOfPers: 8 - 12
+price: 35,00
 metaTitle: Kookworkshop
 metaDesc: 'Kookworkshop een smeltkroes van culturen, keukens en verhalen '
 date: 2019-11-06T18:55:08.236Z
@@ -14,8 +16,8 @@ Samen met de bezoekers van de Huiskamer bereid je maaltijden uit hun land van he
 
 Kies je de Huiskamer voor je kookworkshop, dan sponsor je direct twee dagen eten voor de bezoekers van de Huiskamer.
 
-8-12 personen. 
+8-12 personen.
 
-EUR 35,- pp, inclusief ingrediënten en drinken. 
+EUR 35,- pp, inclusief ingrediënten en drinken.
 
 (NB: alcohol mag helaas niet worden geschonken)
