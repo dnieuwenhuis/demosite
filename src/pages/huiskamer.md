@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Huiskamer
-permalink: /Huiskamer/index.html
+permalink: /huiskamer/index.html
 metaTitle: De huiskamer
 metaDesc: De huiskamer
 ---
