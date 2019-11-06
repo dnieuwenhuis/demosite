@@ -7,7 +7,8 @@
     },
     {
       "text": "Huiskamer",
-      "url": "/huiskamer"
+      "url": "/huiskamer",
+      "external": false
     },
     {
       "text": "GitHub",
