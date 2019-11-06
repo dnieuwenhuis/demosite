@@ -6,6 +6,10 @@
       "external": false
     },
     {
+      "text": "Huiskamer",
+      "url": "/huiskamer"
+    },
+    {
       "text": "GitHub",
       "url": "https://github.com/hankchizljaw/hylia",
       "external": true
