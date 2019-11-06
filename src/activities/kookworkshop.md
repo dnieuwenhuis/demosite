@@ -10,7 +10,7 @@ tags:
 ---
 Samen met de bezoekers van de Huiskamer bereid je maaltijden uit hun land van herkomst, geniet je samen van een heerlijke maaltijd en wissel je verhalen en belevenissen uit.
 
-
+![kookworkshop](/images/20171020_vreemdland_039-1.jpg "Kookworkshop")
 
 Kies je de Huiskamer voor je kookworkshop, dan sponsor je direct twee dagen eten voor de bezoekers van de Huiskamer.
 
