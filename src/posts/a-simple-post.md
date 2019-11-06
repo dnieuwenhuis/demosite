@@ -1,28 +1,11 @@
 ---
-title: A simple post
+title: VPRO BOEKEN
 date: '2019-06-18'
 tags:
   - demo-content
   - simple-post
   - blog
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is all set in the “Body” field as markdown and Eleventy transforms it into a proper HTML post. You can also edit the markdown file directly if you prefer not to use the CMS.
+Carolina Lo Galbo spreekt met onderzoekjournaliste Linda Polman over haar boek 'Niemand wil ze hebben'. Haar verhaal over het Europese 'vluchtelingenmanagement' begint in 1938. Het aantal Joden dat uit nazi-gebied probeerde te ontkomen was geëxplodeerd: er waren dringend opvangplaatsen nodig. Alle argumenten van West-Europese regeringen om de vluchtelingen níét binnen te laten waren dezelfde als nu. Wat is er terechtgekomen van de belofte van 'nooit meer' waarop het VN-vluchtelingenverdrag in 1951 was gebaseerd..
 
-How about a `<blockquote>`?
-
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
-
-A list of stuff:
-
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+De film kun je [hier](https://youtu.be/S0K1M0Vkfbs) bekijken
