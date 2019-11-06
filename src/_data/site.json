@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Demosite",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "showThemeCredit": false,
+  "name": "huiskamervoorvluchtelingen",
+  "shortDesc": "Unieke en veilige plek voor vluchtelingen",
   "url": "https://demosite74.netlify.com",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
+  "authorEmail": "dnieuwenhuis@hotmail.com",
+  "authorHandle": "@dnieuwenhuis1",
   "authorName": "Dennis Nieuwenhuis",
   "enableThirdPartyComments": false,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 3
 }
