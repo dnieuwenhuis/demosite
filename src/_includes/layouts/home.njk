@@ -11,8 +11,11 @@
 {% set postListHeading = postsHeading %}
 {% set postListItems = collections.postFeed %}
 
+{# Post list content #}
+{% set storyListItems = collections.stories %}
+
 {# Archive link #}
-{% if postListItems.length < collections.posts.length %} 
+{% if postListItems.length < collections.posts.length %}
   {% set paginationNextText = archiveButtonText %}
   {% set paginationNextUrl = '/archive' %}
 {% endif %}
