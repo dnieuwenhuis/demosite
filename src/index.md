@@ -1,10 +1,8 @@
 ---
 layout: home
-title: A demosite with Eleventy and cms
-postsHeading: Latest posts
-archiveButtonText: See all posts
+title: 'Een unieke, veilige en gastvrije plek.'
+postsHeading: Laatste nieuws
+archiveButtonText: Bekijk het andere nieuws
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Ieder mens heeft recht op een menswaardig bestaan en moet in staat zijn zichzelf te ontwikkelen, op welke manier dan ook. Ook als je vluchteling bent en (nog) niet over de juiste papieren beschikt.
