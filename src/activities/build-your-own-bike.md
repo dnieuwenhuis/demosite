@@ -1,7 +1,7 @@
 ---
 layout: layouts/activity.njk
-title: Build your own bike
-metaTitle: Build your own bike
+title: Melting pot
+metaTitle: Melting pot
 metaDesc: build your own bike workshop én genieten van een lunch of diner
 date: 2019-11-06T14:11:28.706Z
 numOfPers: 8 - 12
