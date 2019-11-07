@@ -1,11 +1,11 @@
 ---
 layout: layouts/activity.njk
 title: Build your own bike
-numOfPers: 8 - 12
-price: 35,00
 metaTitle: Build your own bike
 metaDesc: build your own bike workshop én genieten van een lunch of diner
 date: 2019-11-06T14:11:28.706Z
+numOfPers: 8 - 12
+price: 24
 tags:
   - Bike
   - Workshop
