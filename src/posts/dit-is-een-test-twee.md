@@ -11,6 +11,6 @@ Hier volgt een gedeelte van een verslag gemaakt door enkele onderzoekers van KIS
 
 Het is niet het gehele verslag. Hier is het gehele verslag met vanaf blz 19 het verslag over de Huiskamer. Het geeft een indruk van de kwaliteit van ons werk, gezien door onbevooroordeelde wetenschappers van de organisatie KIS.
 
-Wat is Kis?
+## Wat is Kis?
 
 Doel van Kennisplatform Integratie & Samenleving (KIS) is een fundamentele bijdrage te leveren aan een pluriforme en stabiele samenleving. De onderwerpkeuze bepaalt het platform door eigen kennis en inzicht én door de kennisbehoefte vanuit het werkveld en de samenleving.
