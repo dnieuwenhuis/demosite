@@ -1,8 +1,8 @@
 ---
 layout: layouts/activity.njk
 title: Quid pro quo!
-metaTitle: Melting pot
-metaDesc: build your own bike workshop én genieten van een lunch of diner
+metaTitle: Quid pro quo!
+metaDesc: 'We zetten graag de diensten van onze mensen in om uw bedrijf te faciliteren. '
 date: 2019-11-06T14:11:28.706Z
 numOfPers: 8 - 12
 price: 24
