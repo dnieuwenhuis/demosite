@@ -1,8 +1,8 @@
 ---
 layout: layouts/activity.njk
-title: Build your own bike
-metaTitle: Build your own bike
-metaDesc: build your own bike workshop én genieten van een lunch of diner
+title: Quid pro quo!
+metaTitle: Quid pro quo!
+metaDesc: 'We zetten graag de diensten van onze mensen in om uw bedrijf te faciliteren. '
 date: 2019-11-06T14:11:28.706Z
 numOfPers: 8 - 12
 price: 24
@@ -10,14 +10,8 @@ tags:
   - Bike
   - Workshop
 ---
-## workshop én genieten van een lunch of diner
+Bij de Huiskamer hebben we ontzettend goede fietsenmakers, coupeuses, koks, dansleraren en sportinstructeurs. Hun diensten zetten we graag in om uw bedrijf te faciliteren. Eenmalig of structureel.
 
-Tijdens dit teamevent bouw je samen een fiets van gerecyclede materialen. Als je wilt, maak je er een echte bedrijfsfiets van, in jouw bedrijfskleur met logo. Vervolgens geniet je van een lunch of diner in de Huiskamer, waar je samen met bezoekers van de Huiskamer kookt, eet en verhalen en belevenissen uitwisselt.
+Wat willen we daarvoor terug? Een bijdrage om onze activiteiten mogelijk te maken. U zou het sponsoring kunnen noemen, maar ‘wij zijn geen schooiers’ om de woorden van een van onze nieuwkomers te gebruiken. We willen er iets voor terug doen: Quid pro quo. Voor EUR 500,- kunnen we bijvoorbeeld een dag lang de fietsen van uw medewerkers repareren. Of we komen een maand lang één keer per week dansles verzorgen op vrijdagmiddag. Of u kunt twee keer deelnemen aan onze lunch.
 
-![Build your own bike](/images/img_1941-1.jpg "Build your own bike")
-
-Organiseer je jouw teamevent bij de Huiskamer, dan sponsor je direct vier tot vijf dagen eten voor de bezoekers van de Huiskamer.
-
-8-12 personen.
-
-EUR 65,- pp  tot EUR 75,- inclusief materialen, eten en drinken.
+We gaan graag met u in gesprek om te zien hoe we dit in kunnen vullen.
