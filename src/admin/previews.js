@@ -55,9 +55,11 @@ const Activity = ({ entry }) => (
   <Preview
     entry={entry}
     path="layouts/activity.njk"
-    context={({ title, date, body }) => ({
+    context={({ title, date, numOfPers, price, body }) => ({
       title,
       date,
+      numOfPers,
+      price,
       content: markdownFilter(body || ''),
     })}
   />
