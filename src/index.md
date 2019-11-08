@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'Een unieke, veilige en gastvrije plek.'
+title: 'Een unieke, veilige en gastvrije plek....'
 postsHeading: Laatste nieuws
 archiveButtonText: Meer nieuws
 socialImage: ''
