@@ -18,6 +18,11 @@
     {
       "text": "Nieuws",
       "url": "/archive"
+    },
+    {
+      "text": "doneer",
+      "url": "https://www.nu.nl",
+      "external": true
     }
   ]
 }
