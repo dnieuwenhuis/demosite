@@ -1,0 +1,15 @@
+{% if usps %}
+<section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
+    <div class="[ inner-wrapper ] [ sf-flow ]">
+        <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">De huiskamer</h2>
+        <div class="[ md:box-flex ]">
+            {% for usp in usps %}
+            <div class="md:width-third">
+                <h3>{{ usp.title }}</h3>
+                <p>{{ usp.excerpt }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+{% endif %}
