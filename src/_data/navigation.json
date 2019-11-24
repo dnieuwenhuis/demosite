@@ -8,7 +8,25 @@
     {
       "text": "Huiskamer",
       "url": "/huiskamer",
-      "external": false
+      "external": false,
+      "submenu": [
+        {
+          "text": "Missie en Visie",
+          "url": "/"
+        },
+        {
+          "text": "Bestuur",
+          "url": "/"
+        },
+        {
+          "text": "Samenwerking",
+          "url": "/"
+        },
+        {
+          "text": "Contact",
+          "url": "/"
+        }
+      ]
     },
     {
       "text": "Activiteiten",
@@ -20,7 +38,7 @@
       "url": "/archive"
     },
     {
-      "text": "doneer",
+      "text": "Doneer",
       "url": "https://www.nu.nl",
       "external": true
     }
