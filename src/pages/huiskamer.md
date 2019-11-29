@@ -9,7 +9,7 @@ metaDesc: De huiskamer
 
 Als je vluchteling bent en (nog) geen recht hebt op een verblijfsvergunning, leef je in een isolement. Je mag niet naar school en je mag niet werken. Je bent verstoken van allerlei maatschappelijke voorzieningen. Je bent veroordeeld tot niets doen. Je leven staat stil.
 
-Vaak verslechtert de situatie van vluchtelingen hierdoor, vooral op psychisch gebied. Bovendien blijft hun potentieel onbenut, voor henzelf, maar ook voor de samenleving.
+Vaak verslechtert de situatie van vluchtelingen hierdoor, vooral op psychisch gebied. Bovendien blijft hun potentieel onbenut, voor henzelf, maar ook voor de samenlevinggggg.
 
 ![Gezellig met zijn allen aan tafel](/images/jongerenhuis-eindhoven-april-2018-43.jpg " De dagelijkse, verzorgde gezamenlijke lunch in de huiskamer")
 
