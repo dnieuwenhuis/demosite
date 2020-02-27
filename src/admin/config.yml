@@ -30,6 +30,21 @@ collections:
             fields:
             - {label: "Title", name: "title", widget: "string"}
             - {label: "Excerpt", name: "excerpt", widget: "markdown"}
+          - label: "home sections"
+            name: "sections"
+            widget: "list"
+            types:
+              - label: Usp
+                name: usp
+                widget: object
+                fields:
+                - {label: "Title", name: "title", widget: "string"}
+                - label: "Usp's"
+                  name: usps
+                  widget: "list"
+                  fields:
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Excerpt", name: "excerpt", widget: "markdown"}
   - name: "generic_pages"
     label: "Generic Pages"
     folder: "src/pages"
